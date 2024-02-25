@@ -1,0 +1,8 @@
+# Exploratory-Data-Analysis-on-Global-Terrorism
+Security issues and meaningful data insights on Global Terrorism
+
+The attached Tableau file is regarding Exploratory Data Analysis on Global Terrorism Database (GTD) which is a database on terrorist attacks around the world from 1970 through 2016 containing over 150,000 observations. Researchers at the National Consortium maintain the database for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland.
+We can see in the attached file that attacks slowly start to increase from 1970 until about 1993 where until 2003 we see a downward global trend in Terrorist incidents despite events like September 11, 2001.
+Moreover we can clearly see that over the years the top 3 countires mostly affected by terrorism attacks are Iraq, Pakistan and Afghanistan. Furthermore it can also be seen that in the past 47 years the overwhelming favored form of attack has been bombings with it being the choice of terrorists more than twice that of Armed Assaults.
+The overall trend of attacks has shifted over time in different parts of the world. The majority of terrorist attacks occurred in Western Europe in the 1970s, followed by Latin and South America in the 1980s, but the number of incidents decreased overall between the mid-1990s and 2003. We can also see that we are experiencing the same increase in numbers, and that the Middle East and North Africa, as well as South Asia, have been impacted the worst by terrorist acts. However, it is also crucial to highlight that, while overall trends are increasing, it appears that the number of terrorist acts has increased in all regions.
+
